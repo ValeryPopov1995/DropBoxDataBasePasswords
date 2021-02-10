@@ -1,0 +1,11 @@
+C:\HashPassDB\bin\Debug\HashPassDB.exe.config
+C:\HashPassDB\bin\Debug\HashPassDB.exe
+C:\HashPassDB\bin\Debug\HashPassDB.pdb
+C:\HashPassDB\obj\Debug\HashPassDB.csprojResolveAssemblyReference.cache
+C:\HashPassDB\obj\Debug\Window1.baml
+C:\HashPassDB\obj\Debug\Window1.g.cs
+C:\HashPassDB\obj\Debug\App.g.cs
+C:\HashPassDB\obj\Debug\HashPassDB_MarkupCompile.cache
+C:\HashPassDB\obj\Debug\HashPassDB.g.resources
+C:\HashPassDB\obj\Debug\HashPassDB.exe
+C:\HashPassDB\obj\Debug\HashPassDB.pdb

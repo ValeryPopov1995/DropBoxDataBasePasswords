@@ -1,0 +1,14 @@
+суперпароль
+xtSw2RJV0/IzGYIFE2q3RZll7fg=
+hash+salt xtSw2RJV0/IzGYIFE2q3RZll7fg=абу
+bscript0 fgXX/WjeHViNxc3jbJ0gqsjTRZI=
+bscript1 qfW0w/4EAIPF01IG7s9tp51PwoU=
+bscript2 jOTqpeVhCNXNAAdOI3UiPY7jLG8=
+bscript3 dRZ87CEEjN8QDOB7KIgA67bVnZ8=
+bscript4 SAhYjOUolayZdDTgbKGh/l+Au6E=
+bscript5 uTh6BNfT6UrbH46BdLR5FxgLogc=
+bscript6 Tr81J8NKL2HyEn6/kcPRmMci30U=
+bscript7 la3ItDudNEyaJ+l62MCcv4M7tBo=
+bscript8 c1PEKW/aGwd1i4cAHsyL16FkSY8=
+bscript9 Lexos/Z2Wlq8SxCyLsDYIL/1EQc=
+AES d7sDOGzP7WMAwDZhRSB9HBrrFTA5KQ+TSNrTa1viiho=
